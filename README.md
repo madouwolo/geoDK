@@ -4,6 +4,7 @@ geoDK
 =====
 
 The goal of geoDK is to make it easy to use danish GIS data in R.
+Version modifier pour FOSCAR Mali
 
 Installation
 ------------
